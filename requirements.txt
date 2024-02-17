@@ -1,0 +1,6 @@
+wordcloud
+xorbits
+sentence-transformers
+pinecone-client==2.2.1
+torch
+faiss-cpu
